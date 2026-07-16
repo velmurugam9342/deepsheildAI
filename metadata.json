@@ -1,0 +1,6 @@
+{
+  "name": "DeepShield AI",
+  "description": "AI-Powered Insider Threat Detection & Privileged Access Monitoring Platform for Banking Security Operations Centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
